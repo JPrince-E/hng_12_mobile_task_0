@@ -30,5 +30,7 @@ This repository contains a simple Flutter app with links to the GitHub repositor
 
 ## Link to the GitHub directory & the HNG backlinks
 
-git 'https://github.com/JPrince-E/hng_12_mobile_task_0'
-hng 'https://hng.tech/hire/flutter-developers'
+```sh
+  git 'https://github.com/JPrince-E/hng_12_mobile_task_0'
+  hng 'https://hng.tech/hire/flutter-developers'
+```
